@@ -23,6 +23,8 @@ RENEW_URLS = [
     "https://host2play.gratis/server/renew?i=7acfa628-7fe5-44b8-ae74-19add067d051",
     "https://5800-firebase-hsd-1766992456534.cluster-rbhjeem4mfgjwrkwwvustjr6em.cloudworkstations.dev"
     "https://5800-firebase-hk-1765471237602.cluster-xu4wp2rvazbj6u4u3voxrgns4q.cloudworkstations.dev"
+    "https://studio.firebase.google.com/mg-84415008"
+    "https://8080-firebase-hsd-1766992456534.cluster-rbhjeem4mfgjwrkwwvustjr6em.cloudworkstations.dev"
     # 添加更多链接
 ]
 
