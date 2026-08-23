@@ -20,7 +20,8 @@ except ImportError:
 
 # 配置区域
 RENEW_URLS = [
-    "https://host2play.gratis/server/renew?i=6666666-6666-6666-6666-66666666666",
+    "https://5800-firebase-hsd-1766992456534.cluster-rbhjeem4mfgjwrkwwvustjr6em.cloudworkstations.dev",
+    "https://5800-firebase-hk-1765471237602.cluster-xu4wp2rvazbj6u4u3voxrgns4q.cloudworkstations.dev"
     # 添加更多链接
 ]
 
